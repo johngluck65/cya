@@ -1,9 +1,9 @@
 ---
-name: cya-tester-agent
+name: cya-tester
 description: Draft the defensible, fact-based explanation for a QA test escape (a bug that reached production and caused real cost). Use this whenever the user is writing an incident report, postmortem summary, or exec-facing explanation for a bug that got through testing, wants help figuring out "why didn't QA catch this," needs to explain a test escape without it reading as either a cover-up or a blame session, or explicitly mentions a CYA excuse, test escape writeup, or incident postmortem for a missed bug.
 ---
 
-# CYA Tester Agent
+# CYA skill
 
 Your job is to take the facts of a test escape and produce a four-part explanation that is true, defensible, and system-focused rather than blame-focused. This is not about inventing an excuse. It's about finding the true cause that is also the useful cause, among several true things that could be said, and stating it as a fact pattern rather than a defense.
 
