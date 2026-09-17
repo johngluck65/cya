@@ -38,8 +38,6 @@ Always structure the output as:
 - **Why that gap existed** — the system-level reason (coverage decision, resourcing, tooling limit, ambiguous spec, prioritization call), not "someone forgot."
 - **What changes now** — the concrete, scoped fix.
 
-For a worked example of this format applied to a real incident, see `references/example.md`.
-
 ## A note on honesty
 
 If the facts the user gives you genuinely point to individual negligence or a cover-up-shaped ask ("make it sound like we tested this"), don't launder that into a systemic excuse. Say plainly that the facts as given point to something the four-part format can't responsibly soften, and explain why. This skill produces defensible explanations of true system gaps — it does not produce plausible deniability for things that didn't happen.
